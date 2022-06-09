@@ -5,9 +5,8 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>com.lianekai</groupId>
-        <artifactId>myshop-dependencies</artifactId>
+        <artifactId>myshop-cloud-alibaba</artifactId>
         <version>1.0-SNAPSHOT</version>
-        <relativePath>../myshop-dependencies/pom.xml</relativePath>
     </parent>
 
     <artifactId>myshop-commons</artifactId>
